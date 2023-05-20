@@ -1,0 +1,13 @@
+.navegacion-superior-ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.navegacion-superior-ul a{
+    text-decoration: none;
+    margin: 0 1rem;
+}
+.header_h2{
+    text-align: center;
+}
